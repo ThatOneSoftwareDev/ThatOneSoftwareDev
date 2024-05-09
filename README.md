@@ -46,6 +46,8 @@ Shatoria</a></h1>
 </p>
 
 ---
+<h3 align="center">Hard work makes dreams turn into a reality! 💙</h3>
+---
 
 Credit: [Shatoria Giles](https://github.com/ThatOneSoftwareDev)
 
