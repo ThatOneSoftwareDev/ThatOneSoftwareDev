@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/ThatOneSoftwareDev" target="blank">
 Shatoria</a></h1>
-<h3 align="center">A passionate Software Engeneer from the USA &#127470;&#127475</h3>
+<h3 align="center">A passionate Software Engeneer from the USA</h3>
 
 <p align="center">I am a passionate Software Engineer and aspiring certified Cloud Practitioner with a deep-rooted desire to create software that makes a difference, particularly in helping people and animals in need. With a keen eye for innovative solutions and a strong foundation in software development, I'm driven by a relentless commitment to learning, growth, and excellence in the ever-evolving tech landscape. Eager to contribute to forward-thinking projects and collaborate with dynamic teams, I'm excited to use my skills to push the boundaries of what's possible and make a positive impact in the world.I hope we will work well together!
 </p>
